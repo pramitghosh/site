@@ -1,0 +1,16 @@
+name: ""
+navbar:
+  title: ""
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Education"
+      href: education.html
+    - text: "Research & Teaching"
+      href: research.html
+    - text: "Other interests"
+      href: interests.html
+    - text: "Personal"
+      href: personal.html
+    - text: "Contact"
+      href: contact.html

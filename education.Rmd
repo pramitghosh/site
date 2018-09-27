@@ -1,0 +1,54 @@
+---
+title: "Education"
+output:
+  html_document:
+    df_print: paged
+    code_folding: hide
+    theme: spacelab
+    highlight: tango
+    mathjax: default
+    toc: true
+    toc_float:
+      smooth_scroll: true
+---
+
+## Education & Training
+
+### University programs
+
+#### Postgraduate
+
+* Masters (2017 - present)
+    - MSc Geoinformatics
+    - Institute for Geoinformatics
+    - [University of Münster](https://www.uni-muenster.de/)
+    - Münster, Germany
+  
+* Post-Graduate Diploma (2015 - 2016)
+    - PG Dip Remote Sensing and GIS
+    - School of Oceanographic Studies
+    - [Jadavpur University](http://www.jaduniv.edu.in/)
+    - Kolkata, India
+  
+#### Undergraduate
+
+* Bachelors (2012 - 2015)
+    - BSc (Hons) Computer Science
+    - Major subject: Computer Science in Honours track (3 years)
+    - Minor subjects: Physics and Mathematics (2 years each)
+    - [University of Calcutta](http://www.caluniv.ac.in/)
+    - Kolkata, India
+  
+### Other training
+
+* Certificate (August, 2015 - November, 2015)
+    - Cert. Remote Sensing, Geographic Information System and Global Navigation Satellite System
+    - [Indian Institute of Remote Sensing, Indian Space Research Organization](https://iirs.gov.in/)
+    - Department of Space, Government of India
+    - Dehradun, India
+
+* All India Senior School Certificate Examination (2011)
+    - Subjects: English, Physics, Chemistry, Mathematics, Computer Science
+    - Birla High School, Kolkata
+    - Central Board of Secondary Education, Government of India
+    - New Delhi, India

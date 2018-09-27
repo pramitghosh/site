@@ -1,0 +1,27 @@
+---
+title: "Pramit Ghosh"
+output:
+  html_document:
+    df_print: paged
+    code_folding: hide
+    theme: spacelab
+    highlight: tango
+    mathjax: default
+    toc: true
+    toc_float:
+      smooth_scroll: true
+---
+
+## Hi!
+Hello! Welcome to my homepage. I am a MSc student (MSc Geoinformatics) and Staff ([Spatio-Temporal Modelling Lab](https://www.uni-muenster.de/Geoinformatics/en/stml/index.html)) at the [Institute for Geoinformatics](http://ifgi.uni-muenster.de), [University of Münster](https://www.uni-muenster.de). I can be found in Room 132 in the GEO1 building at [Heisenbergstraße 2, 48149 Münster, Germany](https://www.uni-muenster.de/uv/wwuaz/lageplan/en/8391).
+
+
+## What am I up to lately?
+I am currently in the 4th and final semester of my program and contributing towards the H2020 funded project [openEO - A Common, Open Source Interface between Earth Observation Data Infrastructures and Front-End Applications](http://openeo.org) under the supervision of [Prof. Dr. Edzer Pebesma](https://www.uni-muenster.de/Geoinformatics/en/institute/staff/index.php/119/Edzer_Pebesma).
+
+Additionally, I am also a tutor for the course "Reference Systems" in the Summer Semester of 2018 taught by Prof. Dr. Edzer Pebesma.
+
+## General Research interests
+As of now, I keep my research interests broad until I find something I am passionate about (or maybe I have found - who knows?). My current interest revolves around geospatial modelling using both statistical and process-based (in particular field-based models) techniques and remote sensing. At the same time I am also on the lookout for links connecting Geosciences, (Theoretical) Computer Science and (Discrete) Mathematics. While doing so, I support the use of open-source tools, technologies and programming languages such as R and Python in geoscientific research.
+
+For the last two years, I have been thinking about the development of a generalized theoretical framework allowing the use of self-similarity quantified by fractal dimension on spatio-temporal dimensions with applications in geosciences and selected processes in the domain of earth sciences. Extensions to similar problems spanning other domains - perhaps to basic sciences - could be possible owing to the generality of the framework. I am looking forward to discuss and know about opinions of anyone interested in it.

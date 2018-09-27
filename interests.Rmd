@@ -1,0 +1,49 @@
+---
+title: "Other interests"
+output:
+  html_document:
+    df_print: paged
+    code_folding: hide
+    theme: spacelab
+    highlight: tango
+    mathjax: default
+    toc: true
+    toc_float:
+      smooth_scroll: true
+---
+
+In case I forget, these are, or rather were, the things I have (had) an interest in:
+
+## Arts
+
+* Photography:
+    - High Dynamic Range (HDR) photography
+    - Astrophotography
+  
+    Mostly with the help of thrid-party kernels ([MagicLantern](https://magiclantern.fm/)) for my Canon (EOS 550D) system. Tried incorporating DualISO workflows and exposure bracketing for everyday photography. Similar workflows for videography could not be tried due to hardware limitations (both for the camera and subsequent processing).
+  
+* Music:
+    - Music Theory in general
+    - Objective comparison of Western classical and Indian classical theories of music
+
+* Media:
+    - Sound recording and editing using Digital Audio Workstations (mostly used Cakewalk SONAR)
+    - Video Editing (mostly used Adobe Premiere Pro, Sony Vegas Pro and Pinnacle Studio)
+    
+    Worked in two unpublished short films as a recreation in these capacities.
+
+* Poetry and Songwriting
+  
+## Science
+
+* Physics:
+    - Lagrangian and Hamiltonian Formulation of Classical Mechanics
+    - Quantum Mechanics
+* Discrete Mathematics / Theoretical Computer Science:
+    - Number Theory
+    - Graph Theory
+
+## Philosophy
+
+* Theory of Science
+    - Limitations of Science

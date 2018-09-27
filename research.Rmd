@@ -1,0 +1,61 @@
+---
+title: "Research & Teaching"
+output:
+  html_document:
+    df_print: paged
+    code_folding: hide
+    theme: spacelab
+    highlight: tango
+    mathjax: default
+    toc: true
+    toc_float:
+      smooth_scroll: true
+---
+
+## Research
+
+### Experience
+
+My research experiences in reverse chronological order
+
+#### Institute for Geoinformatics, University of Münster, Germany
+(April, 2018 - present)
+
+Working as an assistant in Spatio-Temporal Modelling Lab headed by Prof. Dr. Edzer Pebesma  and contributing towards the project "openEO". More details on the project can be found on its official website <http://openeo.org>. My responsibilities include developing the necessary infrastructure for running user-defined custom functions written in R on Earth Observation data in cloud backends. Link to the Github packages I am contributing to in the context of this project:
+* [pramitghosh/OpenEO.R.UDF](https://github.com/pramitghosh/OpenEO.R.UDF)
+* [Open-EO/openeo-r-backend](https://github.com/Open-EO/openeo-r-backend)
+
+* Projects contributing to:
+    - ["openEO - A Common, Open Source Interface between Earth Observation Data Infrastructures and Front-End Applications" (OpenEO)](http://openeo.org) funded under European Union's Horizon 2020 program
+      
+#### School of Oceanographic Studies, Jadavpur University, India
+(2016 - March, 2017)
+
+Worked as an assistant and participated actively in ongoing research in domains spanning ecology (Land Use Land Cover modelling, ecosystem services modelling), oceanography (coastal dynamics, vulnerability of coastal communities due to natural phenomenon) and fisheries (predictive species modelling)
+
+* Projects contributed to:
+    - ["Assessing health, livelihoods, ecosystem services and poverty alleviation in populous deltas" (ESPA Deltas)](http://espadelta.geodata.soton.ac.uk/) funded by [Department for International Development (DFID)](https://www.gov.uk/government/organisations/department-for-international-development), [Economic and Social Research Council (ESRC)](https://esrc.ukri.org/) and [Natural Environment Research Council (NERC)](https://nerc.ukri.org/) under Living with Environmental Change Programme (LWEC) of the UK.
+    - ["DEltas, vulnerability & Climate Change: Migration & Adaptation (DECCMA)"](http://www.deccma.com/deccma/overview/) funded by the UK Government's [Department for international Development (DFID)](https://www.gov.uk/government/organisations/department-for-international-development) and [International Development Research Centre (IDRC)](https://www.idrc.ca/en), Canada under the [Collaborative Adaptation Research Initiative in Africa and Asia (CARIAA)](https://cariaa.net/) program.
+    - "Bio Optical Studies and Ecological Modelling in Case II water of West Bengal Coast towards Hilsa Fishery Forecast" funded by [ESSO - Indian National Centre for Ocean Information Services (INCOIS)](http://www.incois.gov.in), Government of India
+    
+### Publications
+
+#### Articles in international peer-reviewed journals
+
+1. Chanda, Abhra, Sourav Das, Anirban Mukhopadhyay, Amit Ghosh, Anirban Akhand, **Pramit Ghosh**, Tuhin Ghosh, Debashis Mitra, and Sugata Hazra. "Sea surface temperature and rainfall anomaly over the Bay of Bengal during the El Niño-Southern Oscillation and the extreme Indian Ocean Dipole events between 2002 and 2016." Remote Sensing Applications: Society and Environment 12 (2018): 10-22. <https://doi.org/10.1016/j.rsase.2018.08.001> (In print)
+
+2. Mukhopadhyay, Anirban, **Pramit Ghosh**, Abhra Chanda, Amit Ghosh, Subhajit Ghosh, Shouvik Das, Tuhin Ghosh, and Sugata Hazra. "Threats to coastal communities of Mahanadi delta due to imminent consequences of erosion - Present and near future." Science of the Total Environment 637 (2018): 717-729. <https://doi.org/10.1016/j.scitotenv.2018.05.076> (In print)
+
+3. **Ghosh, Pramit**, Anirban Mukhopadhyay, Abhra Chanda, Parimal Mondal, Anirban Akhand, Sandip Mukherjee, S. K. Nayak, Subhajit Ghosh, Debasish Mitra, Tuhin Ghosh, and Sugata Hazra. "Application of Cellular automata and Markov-chain model in geospatial environmental modeling - A review." Remote Sensing Applications: Society and Environment 5 (2017): 64-77. <https://doi.org/10.1016/j.rsase.2017.01.005>
+
+#### Posters
+
+1. **Ghosh, Pramit**, and Anirban Mukhopadhyay. "A modified equation to calculate the potential future shoreline position using transects." (2018). Poster presented in European Geosciences Union General Assembly 2018 at Vienna, Austria in the session "Coastal zone geomorphologic interactions: natural versus human-induced driving factors (co-organized)" (GM11.4/NH11.16) during 8-13 April, 2018. [Abstract](https://meetingorganizer.copernicus.org/EGU2018/EGU2018-3982.pdf), [Poster](https://presentations.copernicus.org/EGU2018-3982_presentation.pdf)
+
+### Peer-reviewer for
+
+1. [Journal of Hydrology](https://www.journals.elsevier.com/journal-of-hydrology)
+
+## Teaching
+
+1. Tutor for the course "Reference Systems" at the Institute for Geoinformatics, University of Muenster in the Summer Semester, 2018 meant for BSc Geoinformatik, MSc Geoinformatics and Erasmus Mundus MSc in Geospatial Technologies. Responsibilities include conducting Lab Sessions and evaluating quizzes.

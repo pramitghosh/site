@@ -1,0 +1,32 @@
+---
+title: "Contact"
+output:
+  html_document:
+    df_print: paged
+    code_folding: hide
+    theme: spacelab
+    highlight: tango
+    mathjax: default
+    toc: true
+    toc_float:
+      smooth_scroll: true
+---
+
+<p align = right>
+![](ifgi_logo.jpg)
+</p>
+
+## Office
+
+- Room 132, Spatio-Temporal Modelling Lab,
+  Institute for Geoinformatics, University of Münster,
+  Heisenbergstraße 2, 48149 Münster, Germany
+
+- email: [pramitghosh@uni-muenster.de](mailto:pramitghosh@uni-muenster.de)
+
+## Social
+
+* [Google Scholar](https://scholar.google.de/citations?user=2YezHrEAAAAJ&hl=en)
+* [Researchgate](https://www.researchgate.net/profile/Pramit_Ghosh3)
+* [Twitter](https://twitter.com/pramit92)
+* [Facebook](https://www.facebook.com/pramitghosh)

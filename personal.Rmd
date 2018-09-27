@@ -1,0 +1,58 @@
+---
+title: "Personal"
+output:
+  html_document:
+    df_print: paged
+    code_folding: hide
+    theme: spacelab
+    highlight: tango
+    mathjax: default
+    toc: true
+    toc_float:
+      smooth_scroll: true
+---
+
+## A few secrets I believe in
+
+### "Sacrifice is essential, in some way or the other."
+  
+  Sometimes, I feel surprised to realize how much of life I have not seen or experienced with respect to the expected norms in the pursuit of excellence in who-knows-what. You will probably be more surprised to know how much I have lost than to know how much I have got, which is not much anyway. It's rare to have the best of multiple worlds simultaneously and I am not so lucky.
+  
+### "Connecting the dots"
+
+  At least in science, connecting the dots in necessary. Trying to find out relationships in seemingly unrelated things (even in everyday life) could open up new avenues. Even if it doesn't open up, I just hope it would open up and in the process I get insights into a lot of things. Surprisingly however, there are similarities in more things than what meets the eye and even if it is not obvious instantly, I get these unexpected Eureka moments after a few years once I relate something I saw somewhere with what I am seeing currently. Trying to find relationships with what I see or hear - e.g. people crossing the streets, some crazy movie plot - and what I do in science is a good exercise.
+  
+### "Looking at the bigger picture"
+
+  Looking at a small subset and assuming it is the whole is a hindrance to progress. Most things are different when looked at from different scales - spatial, temporal or otherwise (sorry for using geoinformatics-based terminology :-P). Sometimes they are so different that everyone gets a completely wrong impression of the reality. I believe this is the 2nd important thing to keep in mind in science (along with the previous point). Interestingly, from a temporal perspective, this is exactly the most common mistake people make regarding my life!
+
+### "A good human being is not necessarily a good scientist but a good scientist is necessarily a good human being"
+
+The whole objective of science, ultimately boils down to betterment of humans and its surroundings. Being a good human being is therefore a pre-requisite to being a good scientist. (More than) Half the research being done in the world would probably not be implemented in real-life citing various causes (feasibility, financial reasons, lack of manpower, priorities etc.) in spite of being good research. What then is the use of all these - time, money and so many things - if it is not doing good for anyone? Probably nothing, but it is the faith in the institution of science that whatever is being done today might become useful all of a sudden some years or decades in the future that keeps people going. However, that is not enough motivation always for everyone - at least not for me. I believe a more direct way to justify one's scientific objectives is to simply be a good human being and help people around you by looking at the human being in them. At least there will be a way to justify the time you spent in labs doing practically nothing for your fellow human being. Personally, I would go to the extent that if a scientist is not a good human being he/she is not a good scientist either. Said that, it is fine to not be a good scientist too - there is no obligation to be good in your professional life.
+
+## Roll of Honour
+
+The following is a list of a very few people who went beyond what they were expected to do and asked of and contribute towards what I am today in their own respective ways. I am not in touch with a number of people mentioned below and some of them have passed away too but their contributions somehow define me today either professionally or as a human being (or rarely both).
+
+Since most people in the list want to remain in the background, maybe it's a good idea to jumble everything up. So, I've put the first name of everyone in the list in the puzzle below - maybe you will find it.
+
+*Possible Directions: All 8 directions - North, North East, East, South East, South, South West, West and North West*
+
+<center>
+![Better kept as a picture](honour.jpg)
+</center>
+
+### "Reason for inclusion" or "something I would remember him/her for" (in alphabetical order of their first names):
+
+The year we last met in person are mentioned at the beginning.
+
+* (2018) Even if you are busy in the most demanding of tasks, you are never so busy to forget your human nature.
+* (2008) It is the elegancy of your solution that makes it stand apart in Mathematics or Science. If you don't finish the quiz in that single small piece of paper, your concepts are unclear. It is the symmetry and the beauty that is to be appreciated - the solution is more of a byproduct.
+* (2016) If you are ready to accept the consequences, then there is nothing in this world to fear or be intimidated by unless you have stolen something (in a broad sense of the word) that is not yours.
+* (2018) To make a dwarf feel comfortable among the giants. :-)
+* (2016) Try everything but do not get addicted to anything
+* (2017) For making sure to come up with all the humour you could do only among us while also coming up with advices which sound good momentarily while knowing perfectly that it is the harsher advice that is going to help in the long run. But, you only run the long run if you live to see that day. :-)
+* (2017) For being a banyan tree and being a shield for me from all external and internal problems sacrificing so much selflessly.
+* (2018) No one helps you unless you help yourself.
+* (2011) For showing courage to stand on my side while others had written me off at the expense of (potential) personal and professional consequences - unfortunately even from me subsequently.
+* (2012) For making me realize that aptitude will always be secondary to scientific attitude and that science is the built upon the pillars of assumptions and approximations. A large part of my academic success and my notoriety for asking the right questions shamelessly belongs to you.
