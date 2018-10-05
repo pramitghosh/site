@@ -42,9 +42,9 @@ Worked as an assistant and participated actively in ongoing research in domains 
 
 #### Articles in international peer-reviewed journals
 
-1. Chanda, Abhra, Sourav Das, Anirban Mukhopadhyay, Amit Ghosh, Anirban Akhand, **Pramit Ghosh**, Tuhin Ghosh, Debashis Mitra, and Sugata Hazra. "Sea surface temperature and rainfall anomaly over the Bay of Bengal during the El Niño-Southern Oscillation and the extreme Indian Ocean Dipole events between 2002 and 2016." Remote Sensing Applications: Society and Environment 12 (2018): 10-22. <https://doi.org/10.1016/j.rsase.2018.08.001> (In print)
+1. Chanda, Abhra, Sourav Das, Anirban Mukhopadhyay, Amit Ghosh, Anirban Akhand, **Pramit Ghosh**, Tuhin Ghosh, Debashis Mitra, and Sugata Hazra. "Sea surface temperature and rainfall anomaly over the Bay of Bengal during the El Niño-Southern Oscillation and the extreme Indian Ocean Dipole events between 2002 and 2016." Remote Sensing Applications: Society and Environment 12 (2018): 10-22. <https://doi.org/10.1016/j.rsase.2018.08.001>
 
-2. Mukhopadhyay, Anirban, **Pramit Ghosh**, Abhra Chanda, Amit Ghosh, Subhajit Ghosh, Shouvik Das, Tuhin Ghosh, and Sugata Hazra. "Threats to coastal communities of Mahanadi delta due to imminent consequences of erosion - Present and near future." Science of the Total Environment 637 (2018): 717-729. <https://doi.org/10.1016/j.scitotenv.2018.05.076> (In print)
+2. Mukhopadhyay, Anirban, **Pramit Ghosh**, Abhra Chanda, Amit Ghosh, Subhajit Ghosh, Shouvik Das, Tuhin Ghosh, and Sugata Hazra. "Threats to coastal communities of Mahanadi delta due to imminent consequences of erosion - Present and near future." Science of the Total Environment 637 (2018): 717-729. <https://doi.org/10.1016/j.scitotenv.2018.05.076>
 
 3. **Ghosh, Pramit**, Anirban Mukhopadhyay, Abhra Chanda, Parimal Mondal, Anirban Akhand, Sandip Mukherjee, S. K. Nayak, Subhajit Ghosh, Debasish Mitra, Tuhin Ghosh, and Sugata Hazra. "Application of Cellular automata and Markov-chain model in geospatial environmental modeling - A review." Remote Sensing Applications: Society and Environment 5 (2017): 64-77. <https://doi.org/10.1016/j.rsase.2017.01.005>
 
