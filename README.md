@@ -1,6 +1,6 @@
 ## site
 
-Contains R Markdown files for personal homepage. Currently hosted at <http://ghosh.staff.ifgi.de/>
+Contains R Markdown files for personal homepage. Currently hosted at <https://ghosh.staff.ifgi.de/>
 
 ## to-do
 
