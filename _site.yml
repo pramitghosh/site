@@ -6,7 +6,7 @@ navbar:
       href: index.html
     - text: "Education"
       href: education.html
-    - text: "Research & Teaching"
+    - text: "Research"
       href: research.html
     - text: "Other interests"
       href: interests.html

@@ -11,10 +11,15 @@ output:
     toc_float:
       smooth_scroll: true
 ---
+## Details
+
+* Date of Birth: 12th January, 1992
+* Place of Birth: Kolkata (German: Kalkutta), erstwhile Calcutta, in West Bengal, India
+* Languages: Bengali (Mother tongue), English (Fluent), Hindi (Proficient), German (Basic)
 
 ## A few secrets I believe in
 
-### "Sacrifice is essential, in some way or the other."
+### "Sacrifice is essential, in one way or the other."
   
   Sometimes, I feel surprised to realize how much of life I have not seen or experienced with respect to the expected norms in the pursuit of excellence in who-knows-what. You will probably be more surprised to know how much I have lost than to know how much I have got, which is not much anyway. It's rare to have the best of multiple worlds simultaneously and I am not so lucky.
   
@@ -24,7 +29,7 @@ output:
   
 ### "Looking at the bigger picture"
 
-  Looking at a small subset and assuming it is the whole is a hindrance to progress. Most things are different when looked at from different scales - spatial, temporal or otherwise (sorry for using geoinformatics-based terminology :-P). Sometimes they are so different that everyone gets a completely wrong impression of the reality. I believe this is the 2nd important thing to keep in mind in science (along with the previous point). Interestingly, from a temporal perspective, this is exactly the most common mistake people make regarding my life!
+  Looking at a small subset and assuming it is the whole is a hindrance to progress. Most things are different when looked at from different scales - spatial, temporal or otherwise (I guess I am working too much! ;-)). Sometimes they are so different that everyone gets a completely wrong impression of the reality. I believe this is the 2nd important thing to keep in mind in science (along with the previous point). Interestingly, from a temporal perspective, this is exactly the most common mistake people make regarding my life!
 
 ### "A good human being is not necessarily a good scientist but a good scientist is necessarily a good human being"
 

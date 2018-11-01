@@ -11,18 +11,35 @@ output:
     toc_float:
       smooth_scroll: true
 ---
+<style>
+.leaflet {
+    margin: auto;
+}
+</style>
 
-<p align = right>
+<p align = center>
 ![](ifgi_logo.jpg)
 </p>
 
 ## Office
 
-- Room 132, Spatio-Temporal Modelling Lab,
-  Institute for Geoinformatics, University of Münster,
+- Room 132, Spatio-Temporal Modelling Lab,<br>
+  Institute for Geoinformatics, University of Münster,<br>
   Heisenbergstraße 2, 48149 Münster, Germany
+  
+```{r echo=FALSE, fig.align='center'}
+library(leaflet)
+loc = c(51.969371, 7.595696)
+addMarkers(map = addTiles(map = leaflet(width = 600, height = 400)), lng = loc[2], lat = loc[1], popup = "Institute for Geoinformatics is here!")
+```
+  
+<br><br>
 
-- email: [pramitghosh@uni-muenster.de](mailto:pramitghosh@uni-muenster.de)
+
+- Institutional email: [pramitghosh@uni-muenster.de](mailto:pramitghosh@uni-muenster.de)
+- Personal email: [pramitghosh@outlook.com](mailto:pramitghosh@outlook.com)
+
+- Phone (Work): +49-251-8330080
 
 ## Social
 
