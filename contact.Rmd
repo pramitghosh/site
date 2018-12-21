@@ -39,7 +39,7 @@ addMarkers(map = addTiles(map = leaflet(width = 600, height = 400)), lng = loc[2
 - Institutional email: [pramitghosh@uni-muenster.de](mailto:pramitghosh@uni-muenster.de)
 - Personal email: [pramitghosh@outlook.com](mailto:pramitghosh@outlook.com)
 
-- Phone (Work): +49-251-8330080
+- Phone (Work): +49 251 8330080
 
 ## Social
 

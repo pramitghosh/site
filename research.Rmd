@@ -43,13 +43,20 @@ Worked as an assistant and participated actively in ongoing research in domains 
 
 ### Articles in international peer-reviewed journals
 
-* Abhra Chanda, Sourav Das, Anirban Mukhopadhyay, Amit Ghosh, Anirban Akhand, **Pramit Ghosh**, Tuhin Ghosh, Debashis Mitra, and Sugata Hazra. "Sea surface temperature and rainfall anomaly over the Bay of Bengal during the El Niño-Southern Oscillation and the extreme Indian Ocean Dipole events between 2002 and 2016." Remote Sensing Applications: Society and Environment 12 (2018): 10-22. [DOI: 10.1016/j.rsase.2018.08.001](https://doi.org/10.1016/j.rsase.2018.08.001)
+* Abhra Chanda, Sourav Das, Anirban Mukhopadhyay, Amit Ghosh, Anirban Akhand, **Pramit Ghosh**, Tuhin Ghosh, Debashis Mitra, and Sugata Hazra. "Sea surface temperature and rainfall anomaly over the Bay of Bengal during the El Niño-Southern Oscillation and the extreme Indian Ocean Dipole events between 2002 and 2016." Remote Sensing Applications: Society and Environment 12 (2018): 10-22. (Elsevier) [DOI: 10.1016/j.rsase.2018.08.001](https://doi.org/10.1016/j.rsase.2018.08.001)
 
-* Anirban Mukhopadhyay, **Pramit Ghosh**, Abhra Chanda, Amit Ghosh, Subhajit Ghosh, Shouvik Das, Tuhin Ghosh, and Sugata Hazra. "Threats to coastal communities of Mahanadi delta due to imminent consequences of erosion - Present and near future." Science of the Total Environment 637 (2018): 717-729. [DOI: 10.1016/j.scitotenv.2018.05.076](https://doi.org/10.1016/j.scitotenv.2018.05.076)
+* Anirban Mukhopadhyay, **Pramit Ghosh**, Abhra Chanda, Amit Ghosh, Subhajit Ghosh, Shouvik Das, Tuhin Ghosh, and Sugata Hazra. "Threats to coastal communities of Mahanadi delta due to imminent consequences of erosion - Present and near future." Science of the Total Environment 637 (2018): 717-729. (Elsevier) [DOI: 10.1016/j.scitotenv.2018.05.076](https://doi.org/10.1016/j.scitotenv.2018.05.076)
 
-* **Pramit Ghosh**, Anirban Mukhopadhyay, Abhra Chanda, Parimal Mondal, Anirban Akhand, Sandip Mukherjee, S. K. Nayak, Subhajit Ghosh, Debasish Mitra, Tuhin Ghosh, and Sugata Hazra. "Application of Cellular automata and Markov-chain model in geospatial environmental modeling - A review." Remote Sensing Applications: Society and Environment 5 (2017): 64-77. [DOI: 10.1016/j.rsase.2017.01.005](https://doi.org/10.1016/j.rsase.2017.01.005)
+* **Pramit Ghosh**, Anirban Mukhopadhyay, Abhra Chanda, Parimal Mondal, Anirban Akhand, Sandip Mukherjee, S. K. Nayak, Subhajit Ghosh, Debasish Mitra, Tuhin Ghosh, and Sugata Hazra. "Application of Cellular automata and Markov-chain model in geospatial environmental modeling - A review." Remote Sensing Applications: Society and Environment 5 (2017): 64-77. (Elsevier) [DOI: 10.1016/j.rsase.2017.01.005](https://doi.org/10.1016/j.rsase.2017.01.005)
 
-### Posters
+### Manuscripts in preparation
+
+* Sandip Giri, Sugata Hazra, **Pramit Ghosh**, Amit Ghosh, Sourav Das, Abhra Chanda, Isha Das,
+Kunal Chakraborty, Anirban Mukhopadhyay, and Sourav Maity. “Role of lunar phases, rainfall
+and wind in predicting Hilsa shad (Tenualosa ilisha) catch in the northern Bay of Bengal.”
+Manuscript submitted and under review for publication (2018).
+
+### Posters (Selected)
 
 * **Pramit Ghosh**, and Anirban Mukhopadhyay. "A modified equation to calculate the potential future shoreline position using transects." (2018). Poster presented in European Geosciences Union General Assembly 2018 at Vienna, Austria in the session "Coastal zone geomorphologic interactions: natural versus human-induced driving factors (co-organized)" (GM11.4/NH11.16) during 8-13 April, 2018. [Abstract](https://meetingorganizer.copernicus.org/EGU2018/EGU2018-3982.pdf)
 
@@ -61,6 +68,13 @@ Worked as an assistant and participated actively in ongoing research in domains 
 
 * Tutor for the course "Reference Systems" at the Institute for Geoinformatics, University of Münster in the Summer Semester, 2018 meant for BSc Geoinformatik, MSc Geoinformatics and Erasmus Mundus MSc in Geospatial Technologies. Responsibilities include preparing teaching materials for practical classes, conducting Lab Sessions and evaluating quizzes.
 
+* Tutor for the study project “Monitoring Conflict Areas with Satellite Image Time Series”
+(Winter Semester, 2018/19) taught by Dr. Christian Knoth and Prof. Dr. Edzer Pebesma by
+attending to students’ queries and troubleshooting problems with programming. This course was
+meant for BSc Geoinformatik and MSc Geoinformatics students.
+
 ## Honours
 
 * *Outstanding Reviewer* for Journal of Hydrology awarded in September, 2018 "in recognition of the contributions made to the quality of the journal" by its editors.
+
+* *Travel grant of 500 €* to attend the [10th Geomundus symposium](http://geomundus.org/2018/) at Universidade Nova de Lisboa in Lisbon, Portugal during 7-8th December, 2018 sponsored by [Association of Geographic Information Laboratories in Europe (AGILE)](https://agile-online.org/).
