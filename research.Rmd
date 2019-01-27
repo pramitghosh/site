@@ -23,8 +23,8 @@ Working as an assistant in Spatio-Temporal Modelling Lab headed by Prof. Dr. Edz
 
 Link to Github organization for openEO: <https://github.com/Open-EO>. Link to the Github repositories I am contributing to in the context of this project (work in progress):
 
-  - [pramitghosh/OpenEO.R.UDF](https://github.com/pramitghosh/OpenEO.R.UDF)
-  - [Open-EO/openeo-r-backend](https://github.com/Open-EO/openeo-r-backend)
+  - [pramitghosh/OpenEO.R.UDF](https://github.com/pramitghosh/OpenEO.R.UDF), [Docker](https://hub.docker.com/r/pramitghosh/openeo.r.udf)
+  - [Open-EO/openeo-r-backend](https://github.com/Open-EO/openeo-r-backend), [Docker](https://hub.docker.com/r/pramitghosh/openeo-r-backend-develop)
 
 * Projects contributing to:
     - ["openEO - A Common, Open Source Interface between Earth Observation Data Infrastructures and Front-End Applications" (OpenEO)](http://openeo.org) funded under European Union's Horizon 2020 program
@@ -56,11 +56,20 @@ Kunal Chakraborty, Anirban Mukhopadhyay, and Sourav Maity. “Role of lunar phas
 and wind in predicting Hilsa shad (Tenualosa ilisha) catch in the northern Bay of Bengal.”
 Manuscript submitted and under review for publication (2018).
 
+### Conference papers
+
+* **Pramit Ghosh**, Florian Lahn, Sören Gebbert, Matthias Mohr, and Edzer Pebesma. “Running userdefined functions in R on Earth observation data in cloud back-ends.” [Geomundus, 2018](http://geomundus.org/2018/) in Lisbon, Portugal during 7-8 December, 2018. [Paper](http://geomundus.org/2018/docs/papers/Pramit.pdf)
+
 ### Posters (Selected)
 
 * **Pramit Ghosh**, and Anirban Mukhopadhyay. "A modified equation to calculate the potential future shoreline position using transects." (2018). Poster presented in European Geosciences Union General Assembly 2018 at Vienna, Austria in the session "Coastal zone geomorphologic interactions: natural versus human-induced driving factors (co-organized)" (GM11.4/NH11.16) during 8-13 April, 2018. [Abstract](https://meetingorganizer.copernicus.org/EGU2018/EGU2018-3982.pdf)
 
-## Peer-reviewer for
+### Presentations
+
+* Presented “Running user-defined functions in R on Earth observation data in cloud back-ends” at
+Geomundus, 2018 in Lisbon, Portugal held on 7th and 8th December, 2018. [Slides](https://pramitghosh.github.io/slides/geomundus-18_8-12.html)
+
+## Journal Referee
 
 * [Journal of Hydrology](https://www.journals.elsevier.com/journal-of-hydrology)
 

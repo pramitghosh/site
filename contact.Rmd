@@ -43,7 +43,5 @@ addMarkers(map = addTiles(map = leaflet(width = 600, height = 400)), lng = loc[2
 
 ## Social
 
-* [Google Scholar](https://scholar.google.de/citations?user=2YezHrEAAAAJ&hl=en)
-* [Researchgate](https://www.researchgate.net/profile/Pramit_Ghosh3)
 * [Twitter](https://twitter.com/pramit92)
 * [Facebook](https://www.facebook.com/pramitghosh)

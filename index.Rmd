@@ -13,13 +13,24 @@ output:
 ---
 
 ## Hi!
-Hello! Welcome to my homepage. I am a MSc student (MSc Geoinformatics) and Staff ([Spatio-Temporal Modelling Lab](https://www.uni-muenster.de/Geoinformatics/en/stml/index.html)) at the [Institute for Geoinformatics](http://ifgi.uni-muenster.de), [University of Münster](https://www.uni-muenster.de). I can be found in Room 132 in the GEO1 building at [Heisenbergstraße 2, 48149 Münster, Germany](https://www.uni-muenster.de/uv/wwuaz/lageplan/en/8391).
+Hello! Welcome to my homepage. I am a MSc student (MSc Geoinformatics) and Staff ([Spatio-Temporal Modelling Lab](https://www.uni-muenster.de/Geoinformatics/en/stml/index.html)) at the [Institute for Geoinformatics](http://ifgi.uni-muenster.de), [University of Münster](https://www.uni-muenster.de). I can be found in Room 132 in the GEO1 building at [Heisenbergstraße 2, 48149 Münster, Germany](https://www.uni-muenster.de/uv/wwuaz/lageplan/en/8391). I can be reached here: [pramitghosh@uni-muenster.de](mailto:pramitghosh@uni-muenster.de)
 
 
 ## What am I up to lately?
 I am currently in the 4th and final semester of my program and contributing towards the H2020 funded project [openEO - A Common, Open Source Interface between Earth Observation Data Infrastructures and Front-End Applications](http://openeo.org) under the supervision of [Prof. Dr. Edzer Pebesma](https://www.uni-muenster.de/Geoinformatics/en/institute/staff/index.php/119/Edzer_Pebesma).
 
-Additionally, I am also a tutor for the course "Reference Systems" in the Summer Semester of 2018 taught by Prof. Dr. Edzer Pebesma.
+Additionally, I currently tutor a study project "Monitoring Conflict Areas with Satellite Image Time Series" taught by Dr. Christian Knoth and Prof. Dr. Edzer Pebesma. This course is meant for BSc Geoinformatik and MSc Geoinformatics students.
 
-## General Research interests
-As of now, I keep my research interests broad until I find something I am passionate about (or maybe I have found - who knows?). My current interest revolves around geospatial modelling using both statistical and process-based (in particular field-based models) techniques and remote sensing. At the same time I am also on the lookout for links connecting Geosciences, (Theoretical) Computer Science and (Discrete) Mathematics. While doing so, I support the use of open-source tools, technologies and programming languages such as R and Python in geoscientific research.
+## Summary
+Employed as an assistant contributing to the H2020-funded project “openEO”, I am
+developing infrastructure to run users’ custom functions in R on Earth observation data in the cloud.
+Having contributed to a number of funded projects after my Bachelor’s in Computer Science from
+India, I have experience in research in domains spanning geospatial modelling and oceanography. I
+am a (co-)author of 3 peer-reviewed articles published in international journals and an Outstanding
+Reviewer for Journal of Hydrology with experience in teaching and presenting research at conferences.
+
+## External profiles
+* [Google Scholar](https://scholar.google.de/citations?user=2YezHrEAAAAJ&hl=en)
+* [Researchgate](https://www.researchgate.net/profile/Pramit_Ghosh3)
+* [ORCiD](https://orcid.org/0000-0002-1852-5951)
+* [Github](https://github.com/pramitghosh)

@@ -79,8 +79,14 @@ img {
 .tabbed-pane {
   padding-top: 12px;
 }
+.html-widget {
+  margin-bottom: 20px;
+}
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -96,7 +102,6 @@ body {
   padding-top: 57px;
   margin-top: -57px;
 }
-
 .section h2 {
   padding-top: 57px;
   margin-top: -57px;
@@ -116,6 +121,43 @@ body {
 .section h6 {
   padding-top: 57px;
   margin-top: -57px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -137,13 +179,73 @@ $(document).ready(function () {
 });
 </script>
 
-
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
 });
 </script>
 
@@ -156,7 +258,6 @@ $(document).ready(function () {
   window.initializeCodeFolding("hide" === "show");
 });
 </script>
-
 
 
 
@@ -321,8 +422,8 @@ div.tocify {
 <p>Working as an assistant in Spatio-Temporal Modelling Lab headed by Prof. Dr. Edzer Pebesma and contributing towards the project “openEO”. More details on the project can be found on its official website <a href="http://openeo.org" class="uri">http://openeo.org</a>. My responsibilities include developing the necessary infrastructure for running user-defined custom functions written in R on Earth Observation data in cloud backends.</p>
 <p>Link to Github organization for openEO: <a href="https://github.com/Open-EO" class="uri">https://github.com/Open-EO</a>. Link to the Github repositories I am contributing to in the context of this project (work in progress):</p>
 <ul>
-<li><a href="https://github.com/pramitghosh/OpenEO.R.UDF">pramitghosh/OpenEO.R.UDF</a></li>
-<li><p><a href="https://github.com/Open-EO/openeo-r-backend">Open-EO/openeo-r-backend</a></p></li>
+<li><a href="https://github.com/pramitghosh/OpenEO.R.UDF">pramitghosh/OpenEO.R.UDF</a>, <a href="https://hub.docker.com/r/pramitghosh/openeo.r.udf">Docker</a></li>
+<li><p><a href="https://github.com/Open-EO/openeo-r-backend">Open-EO/openeo-r-backend</a>, <a href="https://hub.docker.com/r/pramitghosh/openeo-r-backend-develop">Docker</a></p></li>
 <li>Projects contributing to:
 <ul>
 <li><a href="http://openeo.org">“openEO - A Common, Open Source Interface between Earth Observation Data Infrastructures and Front-End Applications” (OpenEO)</a> funded under European Union’s Horizon 2020 program</li>
@@ -359,15 +460,27 @@ div.tocify {
 <li>Sandip Giri, Sugata Hazra, <strong>Pramit Ghosh</strong>, Amit Ghosh, Sourav Das, Abhra Chanda, Isha Das, Kunal Chakraborty, Anirban Mukhopadhyay, and Sourav Maity. “Role of lunar phases, rainfall and wind in predicting Hilsa shad (Tenualosa ilisha) catch in the northern Bay of Bengal.” Manuscript submitted and under review for publication (2018).</li>
 </ul>
 </div>
+<div id="conference-papers" class="section level3">
+<h3>Conference papers</h3>
+<ul>
+<li><strong>Pramit Ghosh</strong>, Florian Lahn, Sören Gebbert, Matthias Mohr, and Edzer Pebesma. “Running userdefined functions in R on Earth observation data in cloud back-ends.” <a href="http://geomundus.org/2018/">Geomundus, 2018</a> in Lisbon, Portugal during 7-8 December, 2018. <a href="http://geomundus.org/2018/docs/papers/Pramit.pdf">Paper</a></li>
+</ul>
+</div>
 <div id="posters-selected" class="section level3">
 <h3>Posters (Selected)</h3>
 <ul>
 <li><strong>Pramit Ghosh</strong>, and Anirban Mukhopadhyay. “A modified equation to calculate the potential future shoreline position using transects.” (2018). Poster presented in European Geosciences Union General Assembly 2018 at Vienna, Austria in the session “Coastal zone geomorphologic interactions: natural versus human-induced driving factors (co-organized)” (GM11.4/NH11.16) during 8-13 April, 2018. <a href="https://meetingorganizer.copernicus.org/EGU2018/EGU2018-3982.pdf">Abstract</a></li>
 </ul>
 </div>
+<div id="presentations" class="section level3">
+<h3>Presentations</h3>
+<ul>
+<li>Presented “Running user-defined functions in R on Earth observation data in cloud back-ends” at Geomundus, 2018 in Lisbon, Portugal held on 7th and 8th December, 2018. <a href="https://pramitghosh.github.io/slides/geomundus-18_8-12.html">Slides</a></li>
+</ul>
 </div>
-<div id="peer-reviewer-for" class="section level2">
-<h2>Peer-reviewer for</h2>
+</div>
+<div id="journal-referee" class="section level2">
+<h2>Journal Referee</h2>
 <ul>
 <li><a href="https://www.journals.elsevier.com/journal-of-hydrology">Journal of Hydrology</a></li>
 </ul>
